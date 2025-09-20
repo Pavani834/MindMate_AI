@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+flask
+numpy
+pandas
+scikit-learn
+nltk
+transformers
+firebase-admin
+google-cloud-speech
+spotipy
+textblob
